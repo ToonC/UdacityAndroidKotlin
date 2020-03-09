@@ -1,0 +1,238 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.2] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.2.aar\87eb0d4fd9c1346a799545222a1ae77a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.2] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.2.aar\483d28dbcc8043260f4ef77bf3858f1e\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-rc02.aar\27eaeddbcfc8c15c3c2fbb1a71949074\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-rc02.aar\ffb8e3ccc3c8e991a858f1d9dc7019b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\82456d10689808ff2201dc8ae6c3e981\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\85b4f4bf07dab8fa8c3f829dd3f9b053\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\41b8a2755c487119f6e78f0737e01389\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\235a6241bf91db2501d4a6e5bdcaf7d6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\95be9e2b68d8b7da32dcb213666fae5a\AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-rc02.aar\b9c9e5e8e1e97584fc811ee414e4a187\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\183232e0180e8df32ef6704c12f06d5b\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-rc02.aar\b4c19324a1da4f862c8c2dddd5f4533b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\c66c93c28d57e88eafe3625c7e189d7d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\58893c984044e0ee599d34c5498fa6b5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\e745ac6713943377bd60e23876e7ac93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\d49ea806ad517d4e2663e01dd947e002\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-rc02.aar\235ef492d7abc6b95f1ab17263dbc7ec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-rc02.aar\257f5df67fa520766a7d01ef6122d703\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\0976466b1534701356f8500001392c98\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\a223c9eb1830819cf13d215c180342c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\ac42a37d864d8fff295f909b649f1c5e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d687b7858ab781c4eee739d53c2d5ee4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\323139c2b27cc9c44624feff88203209\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\0b906b523abcee53856ce606830d872f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\b0a2846ea3147fdff18468c345825910\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\c16a6361f7978b546e61b0fbd298e545\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\1f832047f99c9e9ed4bab33374a923a4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\a364df5cd24336b7973720d43c4c9e56\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9310a26d7468af57d5583d627ff60290\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\aae130d008e577376c29c77a2f87225a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-rc02.aar\90a90261a67a32b264c2edca012deb37\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-rc02.aar\7263f5e4c7b6b93b7edf4ac7aa9955cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\3a22091068dd875ad5499d84f283e89f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\6a8df5d1ceca36761609857977c1ef3e\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\bc884b9215d3e335880d456eac0688c9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\24dab2c57446631ff4dd83e0425889ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\e8ab6febb25daa5a1cd0605919b4ab1d\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\db5d4c1fabf798e92dc47d85c7672fe9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\89a12658172d6b7aac4118098a435bed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\9ae2867922100eb064206dea635c4a4e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\384fc664231a534fbea723865a6d4c99\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\8bbb4d03388e3bf42aec2cd1d2be08a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\1cd816c651b72b32e30a84d3c1ede8e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\62b5919c4a7e8e4c1c73e9a2b85f7f85\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b6aafec72abb5d0b4ef25ddeb90ef4e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\31db7f23077af4da8ad6c04c6066f313\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\888bec0df6510aa32d895e8ec4f54df8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:17:1-44:12
+	package
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:19:5-47
+		INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:17:1-44:12
+		INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:17:1-44:12
+		INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:17:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:21:22-63
+application
+ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\82456d10689808ff2201dc8ae6c3e981\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\82456d10689808ff2201dc8ae6c3e981\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\41b8a2755c487119f6e78f0737e01389\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\41b8a2755c487119f6e78f0737e01389\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\183232e0180e8df32ef6704c12f06d5b\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\183232e0180e8df32ef6704c12f06d5b\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\3a22091068dd875ad5499d84f283e89f\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\3a22091068dd875ad5499d84f283e89f\AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\6a8df5d1ceca36761609857977c1ef3e\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\6a8df5d1ceca36761609857977c1ef3e\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\e8ab6febb25daa5a1cd0605919b4ab1d\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\e8ab6febb25daa5a1cd0605919b4ab1d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\3a22091068dd875ad5499d84f283e89f\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:25:9-41
+	tools:ignore
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:29:9-48
+	android:roundIcon
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:28:9-40
+activity#com.example.android.guesstheword.MainActivity
+ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:34:9-41:20
+	android:name
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:34:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.2] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.2.aar\87eb0d4fd9c1346a799545222a1ae77a\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.2] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.2.aar\87eb0d4fd9c1346a799545222a1ae77a\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.2] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.2.aar\483d28dbcc8043260f4ef77bf3858f1e\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.2] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.2.aar\483d28dbcc8043260f4ef77bf3858f1e\AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-rc02.aar\27eaeddbcfc8c15c3c2fbb1a71949074\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-rc02.aar\27eaeddbcfc8c15c3c2fbb1a71949074\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-rc02.aar\ffb8e3ccc3c8e991a858f1d9dc7019b1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-rc02.aar\ffb8e3ccc3c8e991a858f1d9dc7019b1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\82456d10689808ff2201dc8ae6c3e981\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\82456d10689808ff2201dc8ae6c3e981\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\85b4f4bf07dab8fa8c3f829dd3f9b053\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\85b4f4bf07dab8fa8c3f829dd3f9b053\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\41b8a2755c487119f6e78f0737e01389\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\41b8a2755c487119f6e78f0737e01389\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\235a6241bf91db2501d4a6e5bdcaf7d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\235a6241bf91db2501d4a6e5bdcaf7d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\95be9e2b68d8b7da32dcb213666fae5a\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\95be9e2b68d8b7da32dcb213666fae5a\AndroidManifest.xml:5:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-rc02.aar\b9c9e5e8e1e97584fc811ee414e4a187\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-rc02.aar\b9c9e5e8e1e97584fc811ee414e4a187\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\183232e0180e8df32ef6704c12f06d5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\183232e0180e8df32ef6704c12f06d5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-rc02.aar\b4c19324a1da4f862c8c2dddd5f4533b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-rc02.aar\b4c19324a1da4f862c8c2dddd5f4533b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\c66c93c28d57e88eafe3625c7e189d7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\c66c93c28d57e88eafe3625c7e189d7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\58893c984044e0ee599d34c5498fa6b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\58893c984044e0ee599d34c5498fa6b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\e745ac6713943377bd60e23876e7ac93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\e745ac6713943377bd60e23876e7ac93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\d49ea806ad517d4e2663e01dd947e002\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\d49ea806ad517d4e2663e01dd947e002\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-rc02.aar\235ef492d7abc6b95f1ab17263dbc7ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-rc02.aar\235ef492d7abc6b95f1ab17263dbc7ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-rc02.aar\257f5df67fa520766a7d01ef6122d703\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-rc02.aar\257f5df67fa520766a7d01ef6122d703\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\0976466b1534701356f8500001392c98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\0976466b1534701356f8500001392c98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\a223c9eb1830819cf13d215c180342c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\a223c9eb1830819cf13d215c180342c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\ac42a37d864d8fff295f909b649f1c5e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\ac42a37d864d8fff295f909b649f1c5e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d687b7858ab781c4eee739d53c2d5ee4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d687b7858ab781c4eee739d53c2d5ee4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\323139c2b27cc9c44624feff88203209\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\323139c2b27cc9c44624feff88203209\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\0b906b523abcee53856ce606830d872f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\0b906b523abcee53856ce606830d872f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\b0a2846ea3147fdff18468c345825910\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\b0a2846ea3147fdff18468c345825910\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\c16a6361f7978b546e61b0fbd298e545\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\c16a6361f7978b546e61b0fbd298e545\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\1f832047f99c9e9ed4bab33374a923a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\1f832047f99c9e9ed4bab33374a923a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\a364df5cd24336b7973720d43c4c9e56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\a364df5cd24336b7973720d43c4c9e56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9310a26d7468af57d5583d627ff60290\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9310a26d7468af57d5583d627ff60290\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\aae130d008e577376c29c77a2f87225a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\aae130d008e577376c29c77a2f87225a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-rc02.aar\90a90261a67a32b264c2edca012deb37\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-rc02.aar\90a90261a67a32b264c2edca012deb37\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-rc02.aar\7263f5e4c7b6b93b7edf4ac7aa9955cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-rc02.aar\7263f5e4c7b6b93b7edf4ac7aa9955cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\3a22091068dd875ad5499d84f283e89f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\3a22091068dd875ad5499d84f283e89f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\6a8df5d1ceca36761609857977c1ef3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\6a8df5d1ceca36761609857977c1ef3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\bc884b9215d3e335880d456eac0688c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\bc884b9215d3e335880d456eac0688c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\24dab2c57446631ff4dd83e0425889ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\24dab2c57446631ff4dd83e0425889ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\e8ab6febb25daa5a1cd0605919b4ab1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\e8ab6febb25daa5a1cd0605919b4ab1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\db5d4c1fabf798e92dc47d85c7672fe9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\db5d4c1fabf798e92dc47d85c7672fe9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\89a12658172d6b7aac4118098a435bed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\89a12658172d6b7aac4118098a435bed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\9ae2867922100eb064206dea635c4a4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\9ae2867922100eb064206dea635c4a4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\384fc664231a534fbea723865a6d4c99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\384fc664231a534fbea723865a6d4c99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\8bbb4d03388e3bf42aec2cd1d2be08a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\8bbb4d03388e3bf42aec2cd1d2be08a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\1cd816c651b72b32e30a84d3c1ede8e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\1cd816c651b72b32e30a84d3c1ede8e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\62b5919c4a7e8e4c1c73e9a2b85f7f85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\62b5919c4a7e8e4c1c73e9a2b85f7f85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b6aafec72abb5d0b4ef25ddeb90ef4e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b6aafec72abb5d0b4ef25ddeb90ef4e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\31db7f23077af4da8ad6c04c6066f313\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\31db7f23077af4da8ad6c04c6066f313\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\888bec0df6510aa32d895e8ec4f54df8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\888bec0df6510aa32d895e8ec4f54df8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\toon_\AndroidStudioProjects\UdacityAndroidKotlin\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\6a8df5d1ceca36761609857977c1ef3e\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\6a8df5d1ceca36761609857977c1ef3e\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\6a8df5d1ceca36761609857977c1ef3e\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\6a8df5d1ceca36761609857977c1ef3e\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\toon_\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\6a8df5d1ceca36761609857977c1ef3e\AndroidManifest.xml:24:13-79
