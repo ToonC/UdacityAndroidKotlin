@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\toon_\\AndroidStudioProjects\\UdacityAndroidKotlin\\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\toon_\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\85b4f4bf07dab8fa8c3f829dd3f9b053\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

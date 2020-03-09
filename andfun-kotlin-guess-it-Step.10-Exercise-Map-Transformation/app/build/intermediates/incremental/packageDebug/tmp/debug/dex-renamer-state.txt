@@ -1,0 +1,4 @@
+#Mon Mar 09 17:06:36 CET 2020
+base.0=C\:\\Users\\toon_\\AndroidStudioProjects\\UdacityAndroidKotlin\\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

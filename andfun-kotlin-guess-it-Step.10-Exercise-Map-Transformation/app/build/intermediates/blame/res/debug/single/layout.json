@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\toon_\\AndroidStudioProjects\\UdacityAndroidKotlin\\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\title_fragment.xml",
+        "source": "C:\\Users\\toon_\\AndroidStudioProjects\\UdacityAndroidKotlin\\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\\app\\src\\main\\res\\layout\\title_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\toon_\\AndroidStudioProjects\\UdacityAndroidKotlin\\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\score_fragment.xml",
+        "source": "C:\\Users\\toon_\\AndroidStudioProjects\\UdacityAndroidKotlin\\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\\app\\src\\main\\res\\layout\\score_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\toon_\\AndroidStudioProjects\\UdacityAndroidKotlin\\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\game_fragment.xml",
+        "source": "C:\\Users\\toon_\\AndroidStudioProjects\\UdacityAndroidKotlin\\andfun-kotlin-guess-it-Step.10-Exercise-Map-Transformation\\app\\src\\main\\res\\layout\\game_fragment.xml"
+    }
+]
