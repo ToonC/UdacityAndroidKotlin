@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+    <string name="hello_blank_fragment">Hello! I\'m a fragment!</string>
+    <string name="end_fragment_text">test end!</string>
+    <string name="start_button_text">Start</string>
+    <string name="add_button_text">Add 1</string>
+    <string name="add_textview_text">Press the button to add 1 to the number</string>
+    <string name="next_button_text">Next!</string>
+
+</resources>
